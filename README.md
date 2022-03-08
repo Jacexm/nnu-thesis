@@ -9,10 +9,10 @@
 1、中英文期刊（文献标识符J）
 格式：作者姓名1，作者姓名2，作者姓名3，“等”表示第4及以后的作者（英文输入状态下的点号）期刊论文题目[J].期刊名称，年，卷（期）:该文章的起始页码-该文章的最后一页页码.
 示例：
-陈飒,吴一全.基于Contourlet域Hausdorff距离和粒子群的多源遥感图像匹配[J].测绘学报,2010, 39(6):599-604.
-唐永鹤，陶华敏，卢焕章，等.一种基于Harris算子的快速图像匹配算法[J]. 武汉大学学报.信息科学版, 2012, 37(4):406-409.
-Scharstein D, Szeliski R. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms[J]. International Journal of Computer Vision, 2002, 47(1), 7-42.
-Zhang Z X, Zhang Y J, Zhang J Q, et al. Photogrammetric modeling of linear features with generalized point photogrammetry[J]. Photogrammetric Engineering & Remote Sensing, 2008, 74(9):1119-1127.
+> 陈飒,吴一全.基于Contourlet域Hausdorff距离和粒子群的多源遥感图像匹配[J].测绘学报,2010, 39(6):599-604.
+> 唐永鹤，陶华敏，卢焕章，等.一种基于Harris算子的快速图像匹配算法[J]. 武汉大学学报.信息科学版, 2012, 37(4):406-409.
+> Scharstein D, Szeliski R. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms[J]. International Journal of Computer Vision, 2002,   47(1), 7-42.
+> Zhang Z X, Zhang Y J, Zhang J Q, et al. Photogrammetric modeling of linear features with generalized point photogrammetry[J]. Photogrammetric Engineering & Remote Sensing, 2008, 74(9):1119-1127.
 
 ==2、中英文会议论文集（文献标识符C）==
 格式：作者姓名1，作者姓名2，作者姓名3，“等”表示第4及以后的作者（英文输入状态下的点号）论文题目[C].会议名称论文集，会议举办城市，城市所在国，年，pp. 起始页码-该文章的最后一页页码.
