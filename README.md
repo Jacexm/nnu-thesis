@@ -1,5 +1,14 @@
+
+
+### 使用
+![使用指南](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/raw/main/img/download-s-csl.gif)
+
+
+
+
+
 # nnu-thesis
-## 南京师范大学学位论文引文CSL样式(author-date)
+## 南京师范大学学位论文引文CSL样式(author-date) 格式要求
 ---
 
 中文文献：用中文输入状态下的逗号来隔开作者姓名，及期刊名称、年、卷（期）；用“等”表示第4及以后的作者。  
