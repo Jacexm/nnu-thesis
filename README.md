@@ -4,10 +4,15 @@
 ![使用指南](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/raw/main/img/download-s-csl.gif)
 
 
+本参考文献引文样式适用于zotero文献格式
+实现两种格式要求
+1. numeric 为小标样式
+2. author-date 为(作者，年份)格式
+
+> 学校引文要求样式具体如下图所示
 
 
 
-# nnu-thesis
 ## 南京师范大学学位论文引文CSL样式(author-date) 格式要求
 ---
 
