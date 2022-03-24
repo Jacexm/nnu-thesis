@@ -4,7 +4,7 @@
 ![使用指南](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/raw/main/img/download-s-csl.gif)
 
 
-本参考文献引文样式适用于zotero文献格式
+# 本参考文献引文样式适用于**zotero**文献格式
 实现两种格式要求
 1. numeric 为小标样式
 2. author-date 为(作者，年份)格式
