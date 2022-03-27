@@ -205,7 +205,7 @@
 
 
   <macro name="bib-entry" >
-      <text macro="author" suffix=". "/>
+      <text macro="author" suffix="."/>
       <text macro="title"/>  
       <choose>
         <if type="chapter">
@@ -238,10 +238,10 @@
 
         <!-- 期刊文献 [J] -->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
+          <group>
             <choose>
               <if variable="container-title">
-                <text macro="type-code" prefix="[" suffix="]. "/>
+                <text macro="type-code" prefix="[" suffix="]."/>
                 <text variable="container-title" text-case="capitalize-first" />
                 <text macro="serial-information" prefix=", "/>
               </if>
